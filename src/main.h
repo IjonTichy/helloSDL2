@@ -1,5 +1,5 @@
-#ifndef _HELLOSDL_PIXELS__
-#define _HELLOSDL_PIXELS__
+#ifndef _HELLOSDL_MAIN__
+#define _HELLOSDL_MAIN__
 
 
 #endif

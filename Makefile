@@ -15,7 +15,7 @@ CFILES = $(wildcard ${SRCDIR}/*.cpp)
 HFILES = $(wildcard ${SRCDIR}/*.h)
 OFILES = $(patsubst ${SRCDIR}/%.cpp, ${BUILDDIR}/%.o, ${CFILES})
 
-EXE_NAME = helloSDL
+EXE_NAME = helloSDL2
 
 .PHONY: default
 
